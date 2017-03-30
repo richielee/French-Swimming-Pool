@@ -1,0 +1,8 @@
+Credentials cache: API:22FBB651-914C-452B-B50D-BA0B4DE5D623
+        Principal: rili@42.FR
+
+  Issued                Expires               Principal
+Mar  9 20:17:36 2017  Mar 16 20:17:36 2017  krbtgt/42.FR@42.FR
+Mar  9 20:17:38 2017  Mar 16 20:17:36 2017  ldap/ldap-proxy.42.fr@42.FR
+Mar  9 20:17:38 2017  Mar 16 20:17:36 2017  HTTP/student-storage-1.42.fr@42.FR
+Mar  9 20:24:40 2017  Mar 16 20:17:36 2017  host/vgs-fn1.42.fr@42.FR
